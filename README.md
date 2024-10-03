@@ -2,7 +2,7 @@
 
 This is the repository for the LinkedIn Learning course `learning-playwright`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url]
+![learning-playwright][lil-thumbnail-url]
 
 _See the readme file in the main branch for updated instructions and information._
 
@@ -25,12 +25,16 @@ To resolve this issue:
 Add changes to git using this command: git add .
 Commit changes using this command: git commit -m "some message"
 
-## Installing
+## Using the Course Repository
 
 1. To use these exercise files, you must have the following installed:
-   - [list of requirements for course]
+   - Current, Active, or Maintenance version of [node](https://nodejs.org/en/about/previous-releases) | [node installer](https://nodejs.org/en/download/prebuilt-installer)
+   - [GIT](https://github.com/git-guides/install-git) for command line only or [GitHub Desktop](https://github.com/apps/desktop) for a GUI experience.
+   - [VS Code](https://code.visualstudio.com/) Code Editor
+   - [Playwright Test for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
+   - The rest of the steps are covered in the course
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+3. Utilize the [RESOURCES.md](./RESOURCES.md) file to follow along with all the links to the course.
 
 [0]: # "Replace these placeholder URLs with actual course URLs"
 [lil-course-url]: https://www.linkedin.com/learning/
