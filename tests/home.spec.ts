@@ -2,7 +2,7 @@ import { test, expect } from "@playwright/test";
 
 test("Home page", async ({ page }) => {
   await page.goto("https://practicesoftwaretesting.com/");
-  // Esnure the sign-in link is present
+  // Ensure the sign-in link is present
   await expect(page.getByTestId("nav-sign-in")).toHaveText("Sign in");
 
   // Check the title of the page
